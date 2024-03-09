@@ -1,7 +1,7 @@
 {
-  "name": "gulp-with-tailwindcss",
+  "name": "themefisher",
   "version": "2.2.0",
-  "description": "TailwindCSS StarterKit with Gulp 4",
+  "description": "Assignment from Themefisher",
   "main": "gulpfile.js",
   "devDependencies": {
     "autoprefixer": "^10.4.13",
@@ -30,10 +30,7 @@
     "build": "gulp prod",
     "prod": "gulp prod"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/manjumjn/gulp-with-tailwindcss.git"
-  },
+ 
   "keywords": [
     "gulp",
     "gulp4",
@@ -41,10 +38,7 @@
     "tailwindcss",
     "sass"
   ],
-  "author": "Manjunath G",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/manjumjn/gulp-with-tailwindcss/issues"
-  },
-  "homepage": "https://github.com/manjumjn/gulp-with-tailwindcss#readme"
+  "author": "Rahat",
+  "license": ""
+  
 }
