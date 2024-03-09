@@ -7,6 +7,9 @@ module.exports = {
       backgroundImage: {
         'gradient-to-r': 'var(--bg-gradient-colors)',
       },
+      screens: {
+        '3xl': '1800px',
+      }
     },
   },
   plugins: [],
