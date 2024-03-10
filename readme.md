@@ -1,6 +1,6 @@
 # Themefisher Assignment
 
-This is a Portfolio website of a UI/UX designer named Daryl Speed. Website is 100% responsive across various device
+This is a Portfolio website of a UI/UX designer named Daryl Smith. Website is 100% responsive across various device
 and implemented cross brower functionality for differnent browser. Figma file has been provided by [Themefisher](https://themefisher.com).
 
 ## Live Site
